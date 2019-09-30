@@ -19,10 +19,10 @@
  
 ### Pomysły na projekty
 
-* https://mitchum.blog/how-to-build-minesweeper-with-javascript/[How To Build Minesweeper With JavaScript].
+* https://mitchum.blog/how-to-build-minesweeper-with-javascript/[How To Build Minesweeper With JavaScript]
 
 
 ### Obiektowe Języki Programowania
 
-* https://bellard.org/quickjs/[Quick JavaScript].
+* https://bellard.org/quickjs/[Quick JavaScript]
 * Ruby
