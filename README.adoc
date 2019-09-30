@@ -16,12 +16,8 @@
 
 Źródło: https://blog.pragmaticengineer.com/software-architecture-is-overrated/[Software Architecture is Overrated, Clear and Simple Design is Underrated] by Gergely Orosz.
 
-* https://www.sandimetz.com/blog/2017/9/13/breaking-up-the-behemoth[*Breaking Up the Behemoth*] by Sandi Metz
-
-
-### Pomysły na projekty
-
-* https://mitchum.blog/how-to-build-minesweeper-with-javascript/[How To Build Minesweeper With JavaScript]
+. Gilded Rose Refactoring Kata, https://github.com/emilybache/GildedRose-Refactoring-Kata[starting code in many programming languages]
+. https://www.sandimetz.com/blog/2017/9/13/breaking-up-the-behemoth[*Breaking Up the Behemoth*] by Sandi Metz
 
 
 ### Obiektowe Języki Programowania
