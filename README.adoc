@@ -22,5 +22,5 @@
 
 ### Obiektowe Języki Programowania
 
-* JavaScript, zob. https://bellard.org/quickjs/[Quick JavaScript]
+* JavaScript, zob. https://bellard.org/quickjs/[Quick JavaScript], https://nodejs.org/en/about/[Node.js]
 * Ruby
