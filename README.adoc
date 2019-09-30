@@ -17,6 +17,12 @@
 Źródło: https://blog.pragmaticengineer.com/software-architecture-is-overrated/[Software Architecture is Overrated, Clear and Simple Design is Underrated] by Gergely Orosz.
 
  
-### Projekty
+### Pomysły na projekty
 
 * https://mitchum.blog/how-to-build-minesweeper-with-javascript/[How To Build Minesweeper With JavaScript].
+
+
+### Obiektowe Języki Programowania
+
+* https://bellard.org/quickjs/[Quick JavaScript].
+* Ruby
