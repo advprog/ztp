@@ -1,4 +1,4 @@
-## https://github.com/zjprog/2018/blob/master/README.adoc[ZJP 2019/2020]
+## https://github.com/zjprog/2018[ZJP 2019/2020]
 
 > When designing systems, start simple and stay as simple as you can. Try to avoid the complexity that more complex architecture and formal tools inherently introduce.
 
