@@ -2,7 +2,7 @@
 
 > When designing systems, start *simple* and stay as *simple* as you can.
 
-. http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/[Refactor This: The Gilded Rose Kata]
+. http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/[Refactor This: The Gilded Rose Kata]; https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt[text version]
 . *Gilded Rose Refactoring Kata*, https://github.com/emilybache/GildedRose-Refactoring-Kata[starting code in many programming languages]
 
 > The simpler the system, the simpler it is to understand, the simpler it is to find issues with it and the simpler it is to implement it. The more clear language it is described in, the more accessible that design is. Avoid using jargon that is not understood by every member of the team: the least experienced person should be able to understand things equally clearly.
