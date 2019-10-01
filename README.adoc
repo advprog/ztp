@@ -1,11 +1,15 @@
 ## https://github.com/zjprog/2018[ZJP 2019/2020]
 
-> When designing systems, start simple and stay as simple as you can. Try to avoid the complexity that more complex architecture and formal tools inherently introduce.
+> When designing systems, start simple and stay as *simple* as you can. +
+Try to avoid the *complexity* that more complex architecture and formal tools inherently introduce.
 
-> The goal of designing a system should be simplicity. The simpler the system, the simpler it is to understand, the simpler it is to find issues with it and the simpler it is to implement it. The more clear language it is described in, the more accessible that design is. Avoid using jargon that is not understood by every member of the team: the least experienced person should be able to understand things equally clearly.
+> The goal of designing a system should be *simplicity*. +
+The simpler the system, the simpler it is to understand, the simpler it is to find issues with it and the simpler it is to implement it. The more clear language it is described in, the more accessible that design is. Avoid using jargon that is not understood by every member of the team: the least experienced person should be able to understand things equally clearly.
 
-> Clean design is similar to clean code: it's easy to read and easy to comprehend. There are many great ways to write clean code. However, you will rarely hear anyone suggesting to start with applying the Gang of four design patterns to your code. Clean code starts with things like single responsibility, clear naming, and easy to understand conventions. These principles equally apply to clear architecture. +
-Architecture patterns are not the goal, and they won't substitute for simpler system designs.
+> Clean design is similar to clean code: it's easy to read and easy to comprehend. +
+There are many great ways to write clean code. However, you will rarely hear anyone suggesting to start with applying the Gang of four design patterns to your code. +
+Clean code starts with things like *single responsibility*, *clear naming*, and easy to understand conventions. These principles equally apply to clear architecture. +
+*Architecture patterns are not the goal, and they won't substitute for simpler system designs.*
 
 Źródło: https://blog.pragmaticengineer.com/software-architecture-is-overrated/[Software Architecture is Overrated, Clear and Simple Design is Underrated] by Gergely Orosz.
 
