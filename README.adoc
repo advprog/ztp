@@ -12,6 +12,8 @@
 > Clean design is similar to clean code: it's easy to read and easy to comprehend. +
 Clean code starts with things like *single responsibility*, *clear naming*, and easy to understand conventions.
 
+. https://pl.wikipedia.org/wiki/SOLID_(programowanie_obiektowe)[SOLID]
+
 > Try to avoid the *complexity* that more complex architecture and formal tools inherently introduce.
 
 > The goal of designing a system should be *simplicity*. +
