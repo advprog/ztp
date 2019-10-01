@@ -1,8 +1,13 @@
 ## https://github.com/zjprog/2018[ZJP 2019/2020]
 
-> When designing systems, start *simple* and stay as *simple* as you can. +
+> When designing systems, start *simple* and stay as *simple* as you can.
+
+. http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/[Refactor This: The Gilded Rose Kata]
+.. *Gilded Rose Refactoring Kata*, https://github.com/emilybache/GildedRose-Refactoring-Kata[starting code in many programming languages]
 
 > The simpler the system, the simpler it is to understand, the simpler it is to find issues with it and the simpler it is to implement it. The more clear language it is described in, the more accessible that design is. Avoid using jargon that is not understood by every member of the team: the least experienced person should be able to understand things equally clearly.
+
+. https://www.sandimetz.com/blog/2017/9/13/breaking-up-the-behemoth[*Breaking Up the Behemoth*] by Sandi Metz
 
 > Clean design is similar to clean code: it's easy to read and easy to comprehend. +
 Clean code starts with things like *single responsibility*, *clear naming*, and easy to understand conventions.
@@ -14,9 +19,6 @@ Clean code starts with things like *single responsibility*, *clear naming*, and 
 There are many great ways to write clean code. However, you will rarely hear anyone suggesting to start with applying the Gang of four design patterns to your code.
 
 Źródło: https://blog.pragmaticengineer.com/software-architecture-is-overrated/[Software Architecture is Overrated, Clear and Simple Design is Underrated] by Gergely Orosz.
-
-. *Gilded Rose Refactoring Kata*, https://github.com/emilybache/GildedRose-Refactoring-Kata[starting code in many programming languages]
-. https://www.sandimetz.com/blog/2017/9/13/breaking-up-the-behemoth[*Breaking Up the Behemoth*] by Sandi Metz
 
 
 ### Obiektowe Języki Programowania
