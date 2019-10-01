@@ -25,5 +25,10 @@ There are many great ways to write clean code. However, you will rarely hear any
 
 ### Obiektowe Języki Programowania
 
-* JavaScript, zob. https://bellard.org/quickjs/[Quick JavaScript], https://nodejs.org/en/about/[Node.js]
-* Ruby
+. JavaScript, zob. https://bellard.org/quickjs/[Quick JavaScript], https://nodejs.org/en/about/[Node.js]
+. https://forum.rubyonrails.pl/[Ruby]:
+** https://ruby.github.io/TryRuby/[Try Ruby] – Got 30 minutes? Give Ruby a shot right now!
+** https://learnxinyminutes.com/docs/ruby[Learn X in Y minutes] (irb -> pry).
+** https://exercism.io[Exercism]: https://exercism.io/tracks/ruby[Ruby Track]
+** http://www.codequizzes.com/ruby[CodeQuizzes] – Ruby track.
+** http://ruby-doc.org[Ruby Docs] – Core API (Array, Hash, Enumerable).
