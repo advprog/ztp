@@ -4,6 +4,8 @@
 
 . http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/[Refactor This: The Gilded Rose Kata]; https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt[text version]
 . *Gilded Rose Refactoring Kata*, https://github.com/emilybache/GildedRose-Refactoring-Kata[starting code in many programming languages]
+. https://github.com/zeisler/visualize_ruby[VisualizeRuby]; zob. GildedRose example
+. http://ruby.sadi.st/Flog.html[flog] (Confessions of a Ruby Sadist)
 
 > The simpler the system, the simpler it is to understand, the simpler it is to find issues with it and the simpler it is to implement it. The more clear language it is described in, the more accessible that design is. Avoid using jargon that is not understood by every member of the team: the least experienced person should be able to understand things equally clearly.
 
@@ -19,8 +21,6 @@ Clean code starts with things like *single responsibility*, *clear naming*, and 
 > The goal of designing a system should be *simplicity*. +
 *Architecture patterns* are not the goal, and they won't substitute for simpler system designs. +
 There are many great ways to write clean code. However, you will rarely hear anyone suggesting to start with applying the Gang of four design patterns to your code.
-
-. https://github.com/zeisler/visualize_ruby[VisualizeRuby]
 
 Źródło: https://blog.pragmaticengineer.com/software-architecture-is-overrated/[Software Architecture is Overrated, Clear and Simple Design is Underrated] by Gergely Orosz.
 
