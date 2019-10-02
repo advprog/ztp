@@ -4,7 +4,8 @@
 
 . http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/[Refactor This: The Gilded Rose Kata]; https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt[text version]
 . *Gilded Rose Refactoring Kata*, https://github.com/emilybache/GildedRose-Refactoring-Kata[starting code in many programming languages]
-. https://github.com/zeisler/visualize_ruby[VisualizeRuby]; zob. GildedRose example
+. https://github.com/zeisler/visualize_ruby[VisualizeRuby];
+zob. GildedRose w sekcji https://github.com/zeisler/visualize_ruby#complex-unrefactored-code-example[Complex unrefactored code example]
 . http://ruby.sadi.st/Flog.html[flog] (Confessions of a Ruby Sadist)
 
 > The simpler the system, the simpler it is to understand, the simpler it is to find issues with it and the simpler it is to implement it. The more clear language it is described in, the more accessible that design is. Avoid using jargon that is not understood by every member of the team: the least experienced person should be able to understand things equally clearly.
